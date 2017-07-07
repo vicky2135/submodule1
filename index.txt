@@ -1,2 +1,2 @@
-hii, this is submodule1 
+hii, this is submodule1 a unique repo
 i'm editing this file to create a new commit :p
